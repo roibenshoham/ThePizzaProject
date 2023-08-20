@@ -18,13 +18,14 @@ Pizza delivery project
 ## Screenshots
 **Homepage:**
 
-![image](https://github.com/Roiben7/ThePizzaProject/assets/87220798/3c8955a7-15c6-4bbd-b1bf-7a12462833e9)
+![image](https://github.com/roibenshoham/ThePizzaProject/assets/87220798/b0c78765-3d77-4e81-981e-8a86a3cf5695)
 
 **Order page:**
 
-![image](https://github.com/Roiben7/ThePizzaProject/assets/87220798/acc91e9f-a6da-4e7a-b15f-58e68b0784d8)
-![image](https://github.com/Roiben7/ThePizzaProject/assets/87220798/63ff26ea-520b-470e-a781-241ea560637d)
+![image](https://github.com/roibenshoham/ThePizzaProject/assets/87220798/a231e5da-71af-487f-8cff-03a82678b415)
+
+![image](https://github.com/roibenshoham/ThePizzaProject/assets/87220798/060067bb-b006-40ec-9bb9-342d44c2495d)
 
 **Order status:**
 
-![image](https://github.com/Roiben7/ThePizzaProject/assets/87220798/1b19d048-45b2-481a-bf1f-4d642e93485f)
+![image](https://github.com/roibenshoham/ThePizzaProject/assets/87220798/60cb4813-dd6d-4e86-845d-3b3408ed99d7)
