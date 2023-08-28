@@ -4,7 +4,7 @@ Pizza delivery project
 
 **Technologies:**
  * React Router
- * Tailwind css
+ * Tailwind CSS
  * Redux toolkit
  * Vite
 
