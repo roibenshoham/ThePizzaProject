@@ -2,7 +2,7 @@
 
 Pizza delivery project
 
-**Technologies:**
+**Technologies & Libraries**
  * React Router
  * Tailwind CSS
  * Redux toolkit
